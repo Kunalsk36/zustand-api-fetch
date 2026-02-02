@@ -60,10 +60,6 @@ Follow these steps to summon the project locally:
    npm run dev
    ```
 
-## 📜 License
-
-This project is licensed under the MIT License - feel free to build upon this magical library!
-
 ---
 
-_Mischief Managed._ 🪄✨
+Made with ❤️ by Kunal
